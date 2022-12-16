@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.frenchbread.atst.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CryingObisian",
+    "EndCrystal",
+    "FireProofBlazePowder",
+    "FireProofBlazeRod",
+    "LavaBucket",
+    "Magma",
+    "NetherStar",
+    "Obsidian",
+    "WhyIsntBedrockFireproof"
+  ],
+  "client": [
+    "MixinsInitialized"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

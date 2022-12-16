@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "atst:block/raw_eccentrium_block"
+  }
+}
